@@ -108,7 +108,7 @@ with st.form("triage_form"):
  
     # Section 1 — Symptoms
     st.markdown("""
-    <div style="background:#26bdeb;border:1px solid #bae6fd;border-radius:14px;
+    <div style="background:#26bdeb;border:1px solid #26bdeb;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;">
             <span style="background:#0284c7;color:white;border-radius:8px;
@@ -141,7 +141,7 @@ with st.form("triage_form"):
  
     # Section 2 — Duration & Complaint
     st.markdown("""
-    <div style="background:#26bdeb;border:1px solid #e9d5ff;border-radius:14px;
+    <div style="background:#26bdeb;border:1px solid #26bdeb;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;">
             <span style="background:#7c3aed;color:white;border-radius:8px;
@@ -161,7 +161,7 @@ with st.form("triage_form"):
  
     # Section 3 — Severity
     st.markdown("""
-    <div style="background:#26bdeb;border:1px solid #fed7aa;border-radius:14px;
+    <div style="background:#26bdeb;border:1px solid #26bdeb;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;">
             <span style="background:#ea580c;color:white;border-radius:8px;
@@ -181,7 +181,7 @@ with st.form("triage_form"):
  
     # Section 4 — Medical History
     st.markdown("""
-    <div style="background:#26bdeb;border:1px solid #bbf7d0;border-radius:14px;
+    <div style="background:#26bdeb;border:1px solid #26bdeb;border-radius:14px;
                 padding:20px 24px;margin-bottom:20px;">
         <div style="display:flex;align-items:center;gap:10px;margin-bottom:4px;">
             <span style="background:#059669;color:white;border-radius:8px;
@@ -200,7 +200,7 @@ with st.form("triage_form"):
  
     # Section 5 — Patient Info
     st.markdown("""
-    <div style="background:#26bdeb;border:1px solid #e2e8f0;border-radius:14px;
+    <div style="background:#26bdeb;border:1px solid #26bdeb;border-radius:14px;
                 padding:20px 24px;margin-bottom:24px;">
         <div style="display:flex;align-items:center;gap:10px;">
             <span style="background:#475569;color:white;border-radius:8px;
